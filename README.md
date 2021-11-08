@@ -1,0 +1,1 @@
+# covid_normal_pneumonia
